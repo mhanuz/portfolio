@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mhanuz/portfolio/static/css/main.1520a081.css",
+    "main.js": "/mhanuz/portfolio/static/js/main.ed63fa98.js",
+    "static/media/Shop-APP.PNG": "/mhanuz/portfolio/static/media/Shop-APP.8cbf48cb24e03acd30d5.PNG",
+    "static/media/v-blog-pic.PNG": "/mhanuz/portfolio/static/media/v-blog-pic.6eac28dc39c350eb12cb.PNG",
+    "static/media/Md.Hasanuzzaman.jpg": "/mhanuz/portfolio/static/media/Md.Hasanuzzaman.8279f6069c297a409333.jpg",
+    "index.html": "/mhanuz/portfolio/index.html",
+    "main.1520a081.css.map": "/mhanuz/portfolio/static/css/main.1520a081.css.map",
+    "main.ed63fa98.js.map": "/mhanuz/portfolio/static/js/main.ed63fa98.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1520a081.css",
+    "static/js/main.ed63fa98.js"
+  ]
+}
