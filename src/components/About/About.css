@@ -1,0 +1,44 @@
+.about-page{
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 10px;
+    padding-right: 10px;
+    height: 100%;
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 120px;
+    grid-row-gap: 20px;
+}
+.about-section, .education-section, .work-history, .certificate{
+    display: grid;
+    justify-items: center;
+    align-content: space-around
+}
+
+.about-section >div, .education-section >div , .work-history >div , .certificate > div{
+    text-align: center;
+    font-size: large;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.about-section > h1, .education-section > h1, .work-history > h1, .certificate > h1{
+    background-color: yellowgreen;
+    text-align: center;
+    font-size: xx-large;
+    color: azure;
+    padding: 2px 5px;
+}
+
+@media(max-width:980px){
+
+    .about-page{
+        display: grid;
+        justify-items: center;
+        align-content: space-around;
+        grid-template-columns: none;
+        grid-template-rows: 1fr 1fr 1fr 1fr;
+    }
+}

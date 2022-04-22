@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css?family=Cairo');
+
+.contact-page-container{
+display: block;
+margin-left: 20%;
+margin-right: 20%;
+}
+.contact-page-text-zone{
+    width: 35%;
+    vertical-align: middle;
+    display: table-cell;
+    max-height: 90%;
+}
+
+.contact-page-text-zone > h1{
+    background-image: url(https://media.giphy.com/media/26BROrSHlmyzzHf3i/giphy.gif);
+  background-size: cover;
+  font-family: "Cairo";
+  color: transparent;
+  -moz-background-clip: text;
+  -webkit-background-clip: text;
+  text-transform: uppercase;
+  font-size: 50px;
+  text-align: center;
+}
+
+
+.contact-page-text-zone > p {
+    font-size: 13px;
+    text-align: center;
+    color: orangered;
+    font-family: sans-serif;
+    font-weight: 800;
+    min-width: -moz-fit-content;
+    min-width: fit-content;
+    animation: pulse 1s;
+    margin: 7px auto;
+    text-align: center;
+}
+
+
+
+.contact-page-contact-form {
+    width: 100%;
+    margin-top: 20px;
+}
+  
+.contact-page-contact-form >form > ul {
+    padding: 0;
+    margin: 0;
+}
+  
+.contact-page-contact-form >form > ul > li {
+padding: 0;
+margin: 0;
+list-style: none;
+margin-bottom: 10px;
+opacity: 0;
+overflow: hidden;
+display: block;
+clear: both;
+position: relative;
+animation: fadeInUp 2s 2s;
+animation-fill-mode: forwards;
+}
+  
+.contact-page-contact-form >form > ul > li.half {
+width: 49%;
+margin-left: 2%;
+float: left;
+clear: none;
+}
+  
+.contact-page-contact-form >form > ul > li.half:first-child {
+          margin-left: 0;
+}
+    
+  
+input[type='text'],
+input[type='email'] {
+    width: 100%;
+    border: 0;
+    background: #115173;
+    height: 50px;
+    font-size: 16px;
+    color: #fff;
+    padding: 0 20px;
+    box-sizing: border-box;
+}
+  
+textarea {
+    width: 100%;
+    border: 0;
+    background: #115173;
+    height: 50px;
+    font-size: 16px;
+    color: #fff;
+    padding: 20px;
+    box-sizing: border-box;
+    min-height: 150px;
+}
+  
+.flat-button {
+    cursor: pointer;
+    margin-top: 13px;
+    color: black;
+    font-size: 11px;
+    letter-spacing: 3px;
+    text-decoration: none;
+    padding: 8px 10px;
+    border: 1px solid deeppink;
+    border-radius: 4px;
+    background: 0 0;
+    text-transform: uppercase;
+    float: right;
+    text-align: center;
+    margin-right: 10px;
+}
+  
+  
+  
+
+  
+
