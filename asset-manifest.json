@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.1520a081.css",
-    "main.js": "/portfolio/static/js/main.d5bb3c23.js",
-    "static/media/Shop-APP.PNG": "/portfolio/static/media/Shop-APP.8cbf48cb24e03acd30d5.PNG",
-    "static/media/v-blog-pic.PNG": "/portfolio/static/media/v-blog-pic.6eac28dc39c350eb12cb.PNG",
-    "static/media/Md.Hasanuzzaman.jpg": "/portfolio/static/media/Md.Hasanuzzaman.8279f6069c297a409333.jpg",
-    "index.html": "/portfolio/index.html",
-    "main.1520a081.css.map": "/portfolio/static/css/main.1520a081.css.map",
-    "main.d5bb3c23.js.map": "/portfolio/static/js/main.d5bb3c23.js.map"
+    "main.css": "/my-app/static/css/main.e4119894.css",
+    "main.js": "/my-app/static/js/main.205fa445.js",
+    "static/media/Shop-APP.PNG": "/my-app/static/media/Shop-APP.8cbf48cb24e03acd30d5.PNG",
+    "static/media/v-blog-pic.PNG": "/my-app/static/media/v-blog-pic.6eac28dc39c350eb12cb.PNG",
+    "static/media/Md.Hasanuzzaman.jpg": "/my-app/static/media/Md.Hasanuzzaman.8279f6069c297a409333.jpg",
+    "index.html": "/my-app/index.html",
+    "main.e4119894.css.map": "/my-app/static/css/main.e4119894.css.map",
+    "main.205fa445.js.map": "/my-app/static/js/main.205fa445.js.map"
   },
   "entrypoints": [
-    "static/css/main.1520a081.css",
-    "static/js/main.d5bb3c23.js"
+    "static/css/main.e4119894.css",
+    "static/js/main.205fa445.js"
   ]
 }
